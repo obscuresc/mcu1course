@@ -1,0 +1,4 @@
+"./src/main.o"
+"./src/syscalls.o"
+"./src/sysmem.o"
+"./startup/startup_stm32f446retx.o"

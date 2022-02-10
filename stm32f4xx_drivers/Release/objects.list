@@ -1,0 +1,5 @@
+"./drivers/src/stm32f446xx_gpio.o"
+"./src/001LEDToggle.o"
+"./src/syscalls.o"
+"./src/sysmem.o"
+"./startup/startup_stm32f446retx.o"

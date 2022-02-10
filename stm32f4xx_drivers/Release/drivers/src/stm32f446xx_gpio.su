@@ -1,0 +1,10 @@
+stm32f446xx_gpio.c:12:6:GPIO_PeriphClkControl	0	static
+stm32f446xx_gpio.c:65:6:GPIO_Init	20	static
+stm32f446xx_gpio.c:112:6:GPIO_DeInit	0	static
+stm32f446xx_gpio.c:159:9:GPIO_ReadInputPin	0	static
+stm32f446xx_gpio.c:165:10:GPIO_ReadInputPort	0	static
+stm32f446xx_gpio.c:172:6:GPIO_WriteOutputPin	0	static
+stm32f446xx_gpio.c:189:6:GPIO_WriteOutputPort	0	static
+stm32f446xx_gpio.c:195:6:GPIO_ToggleOutputPin	0	static
+stm32f446xx_gpio.c:202:6:GPIO_IRQConfig	0	static
+stm32f446xx_gpio.c:209:6:GPIO_IRQHandling	0	static

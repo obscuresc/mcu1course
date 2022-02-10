@@ -1,0 +1,6 @@
+"./drivers/src/stm32f446xx_gpio.o"
+"./drivers/src/stm32f446xx_spi.o"
+"./src/008SPICmdHandling.o"
+"./src/syscalls.o"
+"./src/sysmem.o"
+"./startup/startup_stm32f446retx.o"
